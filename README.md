@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Dash Board/dashboard2.png)
+![Sales Performance Dashboard](DashBoard/dashboard2.png)
 # Sales Performance Analysis
 
 ---
